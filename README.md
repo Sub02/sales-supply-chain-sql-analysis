@@ -146,7 +146,6 @@ Currently focused on:
 
 ---
 
-## 📬 Let’s Connect
 ## 📬 Let's Connect
 
 **Shubhayan Kundu**  
