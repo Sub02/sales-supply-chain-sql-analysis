@@ -1,6 +1,8 @@
 # 📊 Sales & Supply Chain Analytics | SQL Project
 
-A comprehensive **end-to-end SQL-based business analytics project** focused on deriving actionable insights across **sales, financial performance, customer behavior, product performance, and supply chain operations**.
+- Performed end-to-end analysis on a large-scale dataset (~7M+ records)
+- Worked with fact and dimension tables (star schema)
+- Derived business insights across sales, customer, and product domains
 
 This project simulates real-world business scenarios and demonstrates the ability to **translate raw data into strategic business insights**.
 
