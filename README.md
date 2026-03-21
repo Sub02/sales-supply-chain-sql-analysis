@@ -23,16 +23,6 @@ The objective of this project is to perform **data-driven analysis** to:
 ![Project Overview](Outputs/02_Sales_Analysis/project_over_view_img.jpg)
 
 ---
-![Project Overview](Outputs/02_Sales_Analysis/YEAR_WISE.jpeg)
-
----
-![Project Overview](Outputs/04_Customer_Market/TOP_CUSTOMERS.jpeg)
-
----
-![Project Overview](Outputs/05_Product_Analysis/TOP_PRODUCTS.jpeg)
-
----
-
 
 ## 🧠 Business Problems Addressed
 
