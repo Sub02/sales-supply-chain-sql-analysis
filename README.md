@@ -157,7 +157,7 @@ I am actively looking for entry-level opportunities in **Data Analytics / Busine
 Feel free to connect or reach out:
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/subhayan-kundu/
-- 💻 GitHub: https://github.com/your-username  
+- 💻 GitHub: https://github.com/Sub02  
 - 📧 Email: kundusubhayan@gmail.com  
 
 I’m open to opportunities, collaborations, and feedback.
