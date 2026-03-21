@@ -6,6 +6,7 @@
 
 This project simulates real-world business scenarios and demonstrates the ability to **translate raw data into strategic business insights**.
 
+Dataset: Multi-table relational dataset (~7M+ records) structured using fact and dimension tables, covering sales, customers, products, and supply chain operations.
 ---
 
 ## 📌 Business Objective
