@@ -74,7 +74,10 @@ The objective of this project is to perform **data-driven analysis** to:
 
 ## 📂 Project Structure
 
+## 📂 Project Setup (Optional)
 
+```bash
+# Create main project folder
 mkdir -p sales-supply-chain-sql-analysis
 
 cd sales-supply-chain-sql-analysis
