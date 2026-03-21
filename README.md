@@ -130,7 +130,7 @@ All query outputs are available in the `Outputs` folder.
 
 A detailed business presentation explaining the analysis and insights:
 
-👉 Presentation/AD-HOC_PRESENTATION.pdf
+👉 ![Presentation]Presentation/AD-HOC_PRESENTATION.pdf
 
 ---
 
