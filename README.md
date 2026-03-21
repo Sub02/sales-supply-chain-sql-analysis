@@ -74,26 +74,29 @@ The objective of this project is to perform **data-driven analysis** to:
 
 ## 📂 Project Structure
 
-ales-supply-chain-sql-analysis/
+sales-supply-chain-sql-analysis/
 
 ├── SQL_Queries/
-│ ├── 01_Data_Overview
-│ ├── 02_Sales_Analysis
-│ ├── 03_Financial_Analysis
-│ ├── 04_Customer_Market_Analysis
-│ ├── 05_Product_Analysis
-│ ├── 06_Supply_Chain_Analysis
-│ └── 07_Contribution_Analysis
+│ ├── 01_Data_Overview/
+│ ├── 02_Sales_Analysis/
+│ ├── 03_Financial_Analysis/
+│ ├── 04_Customer_Market_Analysis/
+│ ├── 05_Product_Analysis/
+│ ├── 06_Supply_Chain_Analysis/
+│ └── 07_Contribution_Analysis/
 │
 ├── Outputs/
-│ ├── Domain-wise output snapshots
-│ └── Analysis results (images)
+│ ├── 01_Data_Overview/
+│ ├── 02_Sales_Analysis/
+│ ├── 03_Financial_Analysis/
+│ ├── 04_Customer_Market/
+│ ├── 05_Product_Analysis/
+│ └── 06_Supply_Chain/
 │
 ├── Presentation/
 │ └── AD-HOC_PRESENTATION.pdf
 │
 └── README.md
-
 
 ---
 
