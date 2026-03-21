@@ -20,7 +20,7 @@ The objective of this project is to perform **data-driven analysis** to:
 
 ## 📊 Project Preview
 
-![Project Overview](Outputs/TOP_PRODUCTS.jpeg)
+![Project Overview](Outputs/05_Product_Analysis/TOP_PRODUCTS.jpeg)
 
 ---
 
