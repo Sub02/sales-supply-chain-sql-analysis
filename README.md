@@ -20,7 +20,7 @@ The objective of this project is to perform **data-driven analysis** to:
 
 ## 📊 Project Preview
 
-![Project Overview](Outputs/02_Sales_Analysis/MONTH_WISE.jpeg)
+![Project Overview](Outputs/02_Sales_Analysis/project_over_view_img.jpg)
 
 ---
 ![Project Overview](Outputs/02_Sales_Analysis/YEAR_WISE.jpeg)
