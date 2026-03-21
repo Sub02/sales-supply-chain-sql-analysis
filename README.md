@@ -20,18 +20,19 @@ The objective of this project is to perform **data-driven analysis** to:
 
 ## 📊 Project Preview
 
-![Project Overview](Outputs/05_Product_Analysis/TOP_PRODUCTS.jpeg)
-
----
-![Project Overview](Outputs/04_Customer_Market/TOP_CUSTOMERS.jpeg)
-
----
 ![Project Overview](Outputs/02_Sales_Analysis/MONTH_WISE.jpeg)
 
 ---
 ![Project Overview](Outputs/02_Sales_Analysis/YEAR_WISE.jpeg)
 
 ---
+![Project Overview](Outputs/04_Customer_Market/TOP_CUSTOMERS.jpeg)
+
+---
+![Project Overview](Outputs/05_Product_Analysis/TOP_PRODUCTS.jpeg)
+
+---
+
 
 ## 🧠 Business Problems Addressed
 
@@ -130,8 +131,7 @@ All query outputs are available in the `Outputs` folder.
 
 A detailed business presentation explaining the analysis and insights:
 
-👉 ![Presentation]Presentation/AD-HOC_PRESENTATION.pdf
-
+👉 [View Full Presentation](Presentation/AD-HOC_PRESENTATION.pdf)
 ---
 
 ## 💼 Why This Project Matters
