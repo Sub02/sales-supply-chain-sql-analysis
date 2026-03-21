@@ -147,13 +147,23 @@ Currently focused on:
 ---
 
 ## 📬 Let’s Connect
+## 📬 Let's Connect
 
-If you are hiring or have feedback, feel free to connect!
+**Shubhayan Kundu**  
+*Aspiring Data Analyst | SQL • Excel • Power BI • Business Insights*
+
+I am actively looking for entry-level opportunities in **Data Analytics / Business Intelligence**, where I can apply my skills in SQL, data analysis, and problem-solving to drive meaningful insights.
+
+Feel free to connect or reach out:
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/subhayan-kundu/
+- 💻 GitHub: https://github.com/your-username  
+- 📧 Email: kundusubhayan@gmail.com  
+
+I’m open to opportunities, collaborations, and feedback.
 
 ---
 
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐
-
-## 📂 Project Structure
