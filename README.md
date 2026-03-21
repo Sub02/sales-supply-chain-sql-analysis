@@ -74,27 +74,25 @@ The objective of this project is to perform **data-driven analysis** to:
 
 ## 📂 Project Structure
 
-## 📂 Project Setup (Optional)
-
-```bash
-# Create main project folder
-mkdir -p sales-supply-chain-sql-analysis
-
-cd sales-supply-chain-sql-analysis
-
-# SQL_Queries structure
-mkdir -p SQL_Queries/{01_Data_Overview,02_Sales_Analysis,03_Financial_Analysis,04_Customer_Market_Analysis,05_Product_Analysis,06_Supply_Chain_Analysis,07_Contribution_Analysis}
-
-# Outputs structure
-mkdir -p Outputs/{01_Data_Overview,02_Sales_Analysis,03_Financial_Analysis,04_Customer_Market,05_Product_Analysis,06_Supply_Chain}
-
-# Presentation folder
-mkdir -p Presentation
-
-# Create files
-touch README.md
-touch Presentation/AD-HOC_PRESENTATION.pdf
----
+sales-supply-chain-sql-analysis/
+├── SQL_Queries/ 
+│ ├── 01_Data_Overview/ 
+│ ├── 02_Sales_Analysis/ 
+│ ├── 03_Financial_Analysis/ 
+│ ├── 04_Customer_Market_Analysis/ 
+│ ├── 05_Product_Analysis/ 
+│ ├── 06_Supply_Chain_Analysis/ 
+│ └── 07_Contribution_Analysis/ 
+│ ├── Outputs/ 
+│ ├── 01_Data_Overview/ 
+│ ├── 02_Sales_Analysis/ 
+│ ├── 03_Financial_Analysis/ 
+│ ├── 04_Customer_Market/ 
+│ ├── 05_Product_Analysis/ 
+│ └── 06_Supply_Chain/ 
+│ ├── Presentation/ 
+│ └── AD-HOC_PRESENTATION.pdf 
+│ └── README.md
 
 ## 📊 Key Insights
 
