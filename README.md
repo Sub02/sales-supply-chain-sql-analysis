@@ -21,6 +21,10 @@ The objective of this project is to perform **data-driven analysis** to:
 
 ---
 
+## 🎥 Project Presentation
+
+[![Watch the video](https://img.youtube.com/vi/u1VBIZbQ7Ek/0.jpg)](https://youtu.be/u1VBIZbQ7Ek)
+
 ## 📊 Project Preview
 
 ![Project Overview](Outputs/02_Sales_Analysis/project_over_view_img.jpg)
