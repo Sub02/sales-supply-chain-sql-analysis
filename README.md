@@ -9,6 +9,11 @@ This project simulates real-world business scenarios and demonstrates the abilit
 Dataset: Multi-table relational dataset (~7M+ records) structured using fact and dimension tables, covering sales, customers, products, and supply chain operations.
 ---
 
+## 🎥 Project Presentation
+
+[![Watch the video](https://img.youtube.com/vi/u1VBIZbQ7Ek/0.jpg)](https://youtu.be/u1VBIZbQ7Ek)
+
+---
 ## 📌 Business Objective
 
 The objective of this project is to perform **data-driven analysis** to:
@@ -21,9 +26,6 @@ The objective of this project is to perform **data-driven analysis** to:
 
 ---
 
-## 🎥 Project Presentation
-
-[![Watch the video](https://img.youtube.com/vi/u1VBIZbQ7Ek/0.jpg)](https://youtu.be/u1VBIZbQ7Ek)
 
 ## 📊 Project Preview
 
